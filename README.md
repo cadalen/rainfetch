@@ -1,2 +1,2 @@
-# rainfetch
-A *fetch-like Rainmeter skin.
+# rainfetch + songfetch
+A *fetch-like Rainmeter skin accompanied by NowPlaying media controls
